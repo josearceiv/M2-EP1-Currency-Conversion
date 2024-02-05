@@ -1,4 +1,4 @@
-### Module 2 Extra Project 1 Currency Conversion
+# Module 2 Extra Project 1 Currency Conversion
 In this project, we will be printing and converting different currencies based on user input. This is a currency converter that lists popular currencies that convert to and from USD. It takes in a number, in any listed currency, and the user chooses what to convert to. Or, you could print a list of value for all currencies available.
 
 We will be utilizing the following topics:
@@ -10,7 +10,7 @@ Type Conversions
 Input
 
 ## Instructions
-# Gameplan
+### Gameplan
 1. Do a bit of research on the currency conversions between different countries. Here's what we're going to use (you don't have to use these):
 * USD (United States Dollar)
 * YEN (Japanese Yen)
@@ -37,7 +37,7 @@ Input
 * EURO TO USD: (Number of Euro) / 0.84 = (Number of US dollars)
 * CAD TO USD: (Number of CAD) / 1.25 = (Number of US dollars)
 
-# The Program
+### The Program
 1. Take in an integer input (hint: casting) for converting from in the current options:
 * 1 - USD
 * 2 - YEN
